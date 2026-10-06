@@ -1,4 +1,5 @@
 # HERMES CYBER KIT — SETUP LENGKAP DARI NOL
+<img width="1774" height="887" alt="Neon Hermes Cyber Kit Poster" src="https://github.com/user-attachments/assets/83f26dc6-3aa3-4986-a6f6-06a9e8547a4e" />
 
 - **Dari**: Install Hermes → Pilih Model (Free/Paid) → Telegram → 9 Skill Bug Hunting
 - **Untuk**: Linux (Ubuntu / Debian / Kali / Mint)
