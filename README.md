@@ -1457,3 +1457,6 @@ curl -s https://openrouter.ai/api/v1/key \
 - **Akses**: Terminal Linux + Telegram Bot
 - **Waktu setup**: 30-60 menit
 - **Status**: PRODUCTION READY
+
+## Youtube
+https://youtu.be/UzBG3yYTlEU?si=sFAyVQ0BrXOXyR9u
